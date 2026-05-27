@@ -1,6 +1,10 @@
 {
     "version": "1.0.0",
-    "lastUpdate": "2026-04-25",
+    "lastUpdate": "2026-05-26",
+    "latestUpdateSongIds": [
+        "Single_137",
+        "Single_138"
+    ],
     "data": [
         {
             "标题": "After ZABANIYA (MUG Edit) ",
@@ -2707,7 +2711,7 @@
                 "ez": "",
                 "hd": "",
                 "in": "https://www.bilibili.com/video/BV1xCoQBPE5k",
-                "at": ""
+                "at": "https://www.bilibili.com/video/BV1qk5j6UEQy/"
             },
             "别称": []
         },
@@ -6555,6 +6559,50 @@
                 "at": ""
             },
             "别称": []
+        },
+        {
+            "标题": "Snow Dance",
+            "id": "Single_137",
+            "bpm": 188,
+            "曲包": "单曲精选集",
+            "备注": "",
+            "难度": {
+                "ez": 4,
+                "hd": 8.3,
+                "in": 12.4,
+                "at": ""
+            },
+            "攻略链接": {
+                "ez": "",
+                "hd": "",
+                "in": "",
+                "at": ""
+            },
+            "别称": [
+                "雪舞"
+            ]
+        },
+        {
+            "标题": "亂★舞",
+            "id": "Single_138",
+            "bpm": 196,
+            "曲包": "单曲精选集",
+            "备注": "",
+            "难度": {
+                "ez": 2,
+                "hd": 7.5,
+                "in": 13,
+                "at": ""
+            },
+            "攻略链接": {
+                "ez": "",
+                "hd": "",
+                "in": "",
+                "at": ""
+            },
+            "别称": [
+                "乱舞"
+            ]
         }
     ]
 }
